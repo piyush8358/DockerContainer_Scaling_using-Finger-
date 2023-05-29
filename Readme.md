@@ -15,3 +15,6 @@ In this project I use the following technologies:
 - The SSM will send the result to the Lambda function.
 - The Lambda function will send the result to the client.
 - The client will show the result on the screen.
+
+- with this we can scale the container independently of the EC2 instance
+
