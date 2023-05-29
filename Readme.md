@@ -18,3 +18,8 @@ In this project I use the following technologies:
 
 - with this we can scale the container independently of the EC2 instance
 
+# Output of the project:
+
+https://github.com/piyush8358/DockerContainer_Scaling_using-Finger-/assets/96904569/3115eb40-5350-4c01-b639-176213a6d1f5
+
+
