@@ -17,7 +17,7 @@ In this project I use the following technologies:
 - The client will show the result on the screen.
 
 - with this we can scale the container independently of the EC2 instance
-- By showing the finger to camera we can delete the container and by showing the finger we can create the container.
+- By showing the finger to camera we can  also delete the container and by showing the finger we can create the container.
 
 # Output of the project:
 
