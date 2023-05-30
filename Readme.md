@@ -19,6 +19,9 @@ In this project I use the following technologies:
 - with this we can scale the container independently of the EC2 instance
 - By showing the finger to camera we can  also delete the container and by showing the finger we can create the container.
 
+# For more information you can visit my blog where I Explained everything in detail
+https://medium.com/@dwivedipiyush9754/ml-project-launching-docker-containers-and-scaling-using-opencv-and-hand-gesture-ed449c996a8a
+
 # Output of the project:
 
 https://github.com/piyush8358/DockerContainer_Scaling_using-Finger-/assets/96904569/3115eb40-5350-4c01-b639-176213a6d1f5
